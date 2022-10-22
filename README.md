@@ -1,6 +1,6 @@
 # Kimaye-Clone
 Deployed link:https://boisterous-hotteok-75bc34.netlify.app
-Kimaye is a fruits and vegetable brand that operates online. My team and I made a perfect replica of their website.
+<h4>Kimaye is a fruits and vegetable brand that operates online. My team and I made a perfect replica of their website.</h4>
 
 <br>
 <h1 align="center" > Kimaye-clone</h1>
