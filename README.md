@@ -41,7 +41,7 @@ The landing page where user can see different section which is related to news.
 ###  cart page : 
 Here we can add fruits and vegetables for checkout.  
 
-<img src="[https://user-images.githubusercontent.com/101391604/192855713-b754b973-17a5-4444-8d0e-9ee7f1093cee.png](https://github.com/Swapnil28Y/Kimaye-Clone/blob/main/img/cart.png)"/>
+<img src="https://user-images.githubusercontent.com/101391604/192855713-b754b973-17a5-4444-8d0e-9ee7f1093cee.png](https://github.com/Swapnil28Y/Kimaye-Clone/blob/main/img/cart.png)](https://github.com/Swapnil28Y/Kimaye-Clone/blob/main/img/cart.png"/>
 
 ### Footer Section : 
 There is footer page where the user see terms and condition and connected to our social sites.
