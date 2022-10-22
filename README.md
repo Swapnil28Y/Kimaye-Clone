@@ -34,14 +34,14 @@ Deployed link:https://boisterous-hotteok-75bc34.netlify.app
 
 <br><hr>
 ###  Landing Page : 
-The landing page where user can see different section which is related to news.
+The landing page where user can see different section which is related to fruits.
 
 <img src="https://github.com/Swapnil28Y/Kimaye-Clone/blob/main/img/homepage.png"/>
 
 ###  cart page : 
 Here we can add fruits and vegetables for checkout.  
 
-<img src="https://github.com/Swapnil28Y/Kimaye-Clone/blob/main/img/cart.png)](https://github.com/Swapnil28Y/Kimaye-Clone/blob/main/img/cart.png"/>
+<img src="https://github.com/Swapnil28Y/Kimaye-Clone/blob/main/img/cart.png"/>
 
 ### Footer Section : 
 There is footer page where the user see terms and condition and connected to our social sites.
