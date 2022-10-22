@@ -37,6 +37,7 @@ Deployed link:https://boisterous-hotteok-75bc34.netlify.app
 The landing page where user can see different section which is related to fruits.
 
 <img src="https://github.com/Swapnil28Y/Kimaye-Clone/blob/main/img/homepage.png"/>
+
 ###  login page : 
 Here we can add fruits and vegetables for checkout.  
 
