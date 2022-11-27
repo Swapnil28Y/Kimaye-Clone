@@ -37,7 +37,7 @@ Deployed link:https://kimaye0clone.netlify.app/
 
 <h3 align="center">Area of Responsibility</h3>
 <h4 align="center">Responsible for navbar and Product pages .</h4>
-<h4 align="center"> Chat with us section.</h4>
+<h4 align="center"> developing landing page</h4>
 
 <br><hr>
 ###  Landing Page : 
