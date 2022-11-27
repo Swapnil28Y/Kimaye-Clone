@@ -19,6 +19,13 @@ Deployed link:https://kimaye0clone.netlify.app/
 <h4 align="center"> CSS | HTML | JAVASCRIPT</h4>
 
 <br><hr>
+<h3 align="center">Team Members </h3>
+<h4 align="center">Ajay Singh</h4>
+<h4 align="center">Swapnil Yeutkar</h4>
+<h4 align="center">Mohd Anas Quaraishi</h4>
+<h4 align="center">Ayush verma</h4>
+
+<br><hr>
 
 
 <h3 align="center">Features</h3>
