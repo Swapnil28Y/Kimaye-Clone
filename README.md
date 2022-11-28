@@ -30,7 +30,11 @@ Deployed link:https://kimaye0clone.netlify.app/
 
 <h3 align="center">Features</h3>
 <h4 align="center">End to end user purchase flow.</h4>
-<h4 align="center"> Different sorting and filtering algorithm.</h4>
+<h4 align="center"> search functionality for particular product</h4>
+<h4 align="center">chat functionality</h4>
+<h4 align="center">Signup and login functionality</h4>
+<h4 align="center">Navbar, header, footer</h4>
+<h4 align="center">adding and removing from the cart.</h4>
 
 <br><hr>
 
